@@ -29,7 +29,7 @@ The input file loaded using np.load from npz file is similar to a dictionary, an
 
 3. The iran and china dataset consists of 2 countries' image data and was used for comparison experiments to  train and test our final model on different countries. The load-in data from file Two_country_data.npz has 6 groups of arrays. For China’s dataset, key [‘arr1’] extracts np arrays of China CT images, key [‘arr2’] extracts np arrays of China CXR images, and key [‘arr3’] extracts the label information of China CT and CXR images. For Iran’s dataset, key [‘arr4’] extracts np arrays of Iran CT images, key [‘arr5’] extracts np arrays of Iran CXR images, and  key [‘arr6’] extracts the label information of Iran CT and CXR images
 
-##Code
+## Code
 The code files are numbered as our approximate experiment sequence.
 1. Data files used in the files are stored locally in our Google Drive. If you would like to download the data files yourself, you could go to the Data folder.
 2. experiments_VGG_fusion.ipynb contains experiments on fusion weight, self-defined MLP with VGG fusion, and testing CT and CXR individually on our VGG fusion model.
