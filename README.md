@@ -37,3 +37,24 @@ The code files are numbered as our approximate experiment sequence.
 ## Citation
 
 Zhou, Y., Liu, J., Yang, Z., Liu, T., Meng, X., Zhou, Z., ... & Braytee, A. (2022, November). VGG-FusionNet: A Feature Fusion Framework from CT scan and Chest X-ray Images based Deep Learning for COVID-19 Detection. In 2022 IEEE International Conference on Data Mining Workshops (ICDMW) (pp. 1-9). IEEE.
+
+##Data resources
+External Evaluation - Data Sources
+CT data source
+https://www.kaggle.com/datasets/anaselmasry/covid19normalpneumonia-ct-images
+CXR data source
+https://www.kaggle.com/datasets/sid321axn/covid-cxr-image-dataset-research
+
+
+CT data for Iran
+https://www.kaggle.com/datasets/hgunraj/covidxct
+
+CXR data for Iran
+https://www.kaggle.com/datasets/mohammadamireshraghi/covid19-xray-local-data
+
+CT data for China 
+https://www.kaggle.com/datasets/hgunraj/covidxct
+
+CXR data for China
+https://github.com/ieee8023/covid-chestxray-dataset
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
